@@ -317,3 +317,9 @@ ul:not(.browser-default) li {
 }
 
 
+/*geca-logo-png*/
+.geca-logo-png img{
+  display: block;
+  margin-left: 30%;
+  margin-right: 30%;
+}
